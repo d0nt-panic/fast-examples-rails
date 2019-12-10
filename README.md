@@ -1,6 +1,6 @@
 # README
 
-Example of integration Wallarm FAST with the rails app using FAST orb (plugin for CircleCI).
+Example of integration Wallarm FAST with the rails app using FAST orb (plugin for CircleCI)).
 
 Orb is described here: 
 https://circleci.com/orbs/registry/orb/wallarm/fast
